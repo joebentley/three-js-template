@@ -1,0 +1,15 @@
+{
+  "name": "three-js-template",
+  "version": "1.0.0",
+  "description": "A simple generator for three.js projects set up with a webpack-dev-server, optionally with typescript setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Bentley <joebentley10@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "inquirer": "^6.3.1"
+  }
+}
