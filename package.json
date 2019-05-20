@@ -4,7 +4,8 @@
   "description": "A simple generator for three.js projects set up with a webpack-dev-server, optionally with typescript setup.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "three-js-template": "node index.js"
   },
   "author": "Joe Bentley <joebentley10@gmail.com>",
   "license": "ISC",
