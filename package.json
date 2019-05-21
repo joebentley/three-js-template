@@ -1,6 +1,6 @@
 {
   "name": "three-js-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple generator for three.js projects set up with a webpack-dev-server, optionally with typescript setup.",
   "main": "index.js",
   "scripts": {
